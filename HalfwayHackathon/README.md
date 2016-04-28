@@ -1,2 +1,0 @@
-# HalfwayHackathon
-Hackathon project

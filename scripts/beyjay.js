@@ -7,3 +7,4 @@ myImage.onclick = function() {
 	myImage.setAttribute ('src', imageName);
 }
 
+ 
