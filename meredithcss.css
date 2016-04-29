@@ -1,0 +1,71 @@
+/*
+.invisible {
+	visibility: hidden;
+}
+
+.visible {
+	visibility: visible;
+	padding-bottom: 25px;
+}
+
+.visible2 {
+	visibility: visible;
+}*/
+ 
+
+.invisible {
+	height: 0;
+	width: 0;
+	overflow: hidden;
+}
+
+
+.visible {
+	width: auto;
+	height: auto;
+}
+
+
+/*a .a {
+	margin-left: 60px;
+}
+
+*/
+
+/*
+
+.visible2 {
+	visibility: visible;
+}
+
+*/
+
+
+/*#first {
+	display: none;
+}
+
+#second {
+	display: none;
+}
+
+#third {
+	display: none;
+}
+
+#fourth {
+	display: none;
+}
+
+#fifth {
+	display: none;
+}
+
+#sixth {
+	display: none;
+}
+*/
+/*button {
+	display: block;
+	margin-top: 15px;
+}*/
